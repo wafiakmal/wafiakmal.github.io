@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wafiakmal
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning NLP, Cloud Computing and Machine Learning Statistics
-- 💞️ I’m looking to collaborate on Data Science Projects!
+- 👋 Hi, Thank you for visiting! I’m @wafiakmal.
+- 🌱 I’m currently pursuing a Master's Degree in Data Science @ Duke University!
+- 👀 I’m interested in learning NLP, Cloud Computing, Machine Learning, and Statistics
+- 💞️ Aiming to be a Data Scientist in the future!
 
 <!---
 wafiakmal/wafiakmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
