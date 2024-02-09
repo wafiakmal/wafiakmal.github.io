@@ -1,0 +1,36 @@
+theme = "ntun"
+
+# The URL the site will be built for
+base_url = "https://example.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+author = "Wafiakmal Miftah"
+author_image="me.jpg"
+city="Durham"
+years="2024"
+
+job = "Aspiring Data Scientist - Seeking Full Time Opportunity 2024"
+description = "MS Data Science Student @ Duke University - Graduating May 2024"
+
+links = [
+    { url = "https://github.com/wafiakmal", title="", icon = "fab fa-github"},
+#    { url = "", title="", icon = "fab fa-twitter"},
+    { url = "", title="https://www.linkedin.com/in/wafiakmal/", icon = "fab fa-linkedin"},
+    { url = "mailto:wafiakmal.miftah@duke.edu", title="", icon = "fas fa-envelope"}
+]
+
+# if you add languages, put your emoji flag on array
+languages_flags = [
+    "🇬🇧"
+]
