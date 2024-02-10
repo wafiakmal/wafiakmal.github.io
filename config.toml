@@ -1,7 +1,7 @@
 theme = 'ntun'
 
 # The URL the site will be built for
-base_url = "https://wafiakmal.github.io/"
+base_url = "https://wafiakmal.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -15,19 +15,19 @@ build_search_index = true
 highlight_code = true
 
 [extra]
-author = "Jon Snow"
+author = "Wafiakmal Miftah"
 author_image="me.jpg"
-city="Winterfell"
-years="281"
+city="Durham"
+years="2024"
 
-job = "The King in the North"
-description = "Dragons & Aunt ❤️"
+job = "Aspiring Data Scientist"
+description = "MS Data Science Student at Duke University"
 
 links = [
-    { url = "", title="", icon = "fab fa-github"},
-    { url = "", title="", icon = "fab fa-twitter"},
-    { url = "", title="", icon = "fab fa-linkedin"},
-    { url = "mailto:", title="",icon = "fas fa-envelope"}
+    { url = "https://github.com/wafiakmal", title="", icon = "fab fa-github"},
+#    { url = "", title="", icon = "fab fa-twitter"},
+    { url = "https://www.linkedin.com/in/wafiakmal/", title="", icon = "fab fa-linkedin"},
+    { url = "mailto:wafiakmal.miftah@duke.edu", title="",icon = "fas fa-envelope"}
 ]
 
 # if you add languages, put your emoji flag on array
