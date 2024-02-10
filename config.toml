@@ -15,4 +15,22 @@ build_search_index = true
 highlight_code = true
 
 [extra]
-# Put all your custom variables here
+author = "Jon Snow"
+author_image="me.jpg"
+city="Winterfell"
+years="281"
+
+job = "The King in the North"
+description = "Dragons & Aunt ❤️"
+
+links = [
+    { url = "", title="", icon = "fab fa-github"},
+    { url = "", title="", icon = "fab fa-twitter"},
+    { url = "", title="", icon = "fab fa-linkedin"},
+    { url = "mailto:", title="",icon = "fas fa-envelope"}
+]
+
+# if you add languages, put your emoji flag on array
+languages_flags = [
+    "🇬🇧"
+]
